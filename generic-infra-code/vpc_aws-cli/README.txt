@@ -172,5 +172,5 @@ Add a tag to the instance created:
 #aws ec2 create-tags --resources <instance-id> --tags Key=<tag-key>,Value=<tag-value>
 
 Login into Public ec2 and check the internet connection and now login into the Private EC2 and verify the connectivity and Internet facility
-and check the ssh connection from othre ec2 to private ec2 ....So if you don't get the connection,vpc is no mistake.................its worked... 
+and check the ssh connection from othre ec2 to private ec2 ....So if you don't get the connection,......it is work...... 
 
